@@ -3,7 +3,7 @@
 
 <p style="margin: 15px;" align="center">
     <h3 align="center">Love JS, code and share my knowledges</h3>
-    <h3 align="center" margin-bottom="10px">I'm french 🥖 web developper and I make some application, </h3>
+    <h3 align="center" margin-bottom="10px">I'm french 🥖 web developer and I make some application, </h3>
 </p>
 
 - 🔭 I’m currently working on **improving my skills**
