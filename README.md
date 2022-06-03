@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📫 How to reach me **vinycome@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viny come" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viny come" height="30" width="40" /></a>
@@ -66,7 +64,7 @@
 <h1 align="center">How to get in touch?</h1>
 <h3 align="center">If you need my me 👇</h3>
 <p align="center">
-    - <a href="mailto:vinycome@hotmail.com">Send email</a>
+    - <a href="mailto:vinycome@hotmail.com"> 📫 Send email</a>
     <p style='margin-bottom: 20px'>
     </p>
 </p>  
