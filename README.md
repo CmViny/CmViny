@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Viny</h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;push+the+limits"></h3>
 
+<p style="margin: 15px;" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;coffee+addict;vuejs+for+life">
+    <h3 align="center">Love JS, love code and share my knowledges</h3>
+    <h3 align="center">I'm french 🥖 web developper and I make some application, </h3>
+</p>
+
 - 🔭 I’m currently working on **improving my skills**
 
 - 🌱 I’m currently learning **MERN Stack**
