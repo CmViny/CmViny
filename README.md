@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/viny-come-developpeur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viny come" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/viny-c%C3%B4me-%F0%9F%92%BB-d%C3%A9veloppeur-6a5833240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viny come" height="30" width="40" /></a>
 </p>
 
 <h1 align="center">Languages and Tools 🛠</h1>
