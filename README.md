@@ -66,9 +66,6 @@
 <h1 align="center">How to get in touch?</h1>
 <h3 align="center">If you need my me 👇</h3>
 <p align="center">
-    - <p> You can send me message</p>
-</p> 
-<p align="center">
     - <a href="mailto:vinycome@hotmail.com">Send email</a>
     <p style='margin-bottom: 20px'>
     </p>
